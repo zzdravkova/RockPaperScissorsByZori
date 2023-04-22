@@ -1,4 +1,3 @@
-import java.awt.print.Paper;
 import java.util.Random;
 import java.util.Scanner;
 
